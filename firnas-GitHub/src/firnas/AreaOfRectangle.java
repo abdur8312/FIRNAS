@@ -13,3 +13,4 @@ public class AreaOfRectangle {
 		System.out.print("Area of the rectangle:" +Area);
 	}
 }
+//nice i've done it
